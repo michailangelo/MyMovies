@@ -1,5 +1,5 @@
 # MyMovies
-Java Swing App 
+Java Swing App. 
 The app gets all its data from themoviedb.org via a REST API provided by the movie's platform.
 The results from the REST API queries are in JSON format. The app builds a GUI with a following options:
 1) Saving data to a local db-managed by JAVADB(derby).
